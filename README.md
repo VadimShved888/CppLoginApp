@@ -12,7 +12,7 @@ This is a simple console application that simulates a login request to http://te
 
 1. Clone the repository:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/VadimShved888/CppLoginApp
     cd CppLoginApp
     ```
 
